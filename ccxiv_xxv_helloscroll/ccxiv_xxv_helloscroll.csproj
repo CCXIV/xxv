@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BaseOutputPath>..\..\bin\</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ccxiv">
+      <HintPath>..\..\bin\Debug\net6.0\ccxiv.dll</HintPath>
+    </Reference>
+    <Reference Include="ccxiv_xxv">
+      <HintPath>..\..\bin\Debug\net6.0\ccxiv_xxv.dll</HintPath>
+    </Reference>
+    <Reference Include="ccxiv_xxv_tenet">
+      <HintPath>..\..\bin\Debug\net6.0\ccxiv_xxv_tenet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

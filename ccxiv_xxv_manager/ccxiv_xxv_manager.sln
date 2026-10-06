@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ccxiv_xxv_manager", "ccxiv_xxv_manager.csproj", "{6FE8252B-B8F1-40F0-B918-AF6C8B2ED4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE8252B-B8F1-40F0-B918-AF6C8B2ED4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE8252B-B8F1-40F0-B918-AF6C8B2ED4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE8252B-B8F1-40F0-B918-AF6C8B2ED4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE8252B-B8F1-40F0-B918-AF6C8B2ED4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8391CA12-AEE1-4D1B-B3BF-E86FB31B9175}
+	EndGlobalSection
+EndGlobal
